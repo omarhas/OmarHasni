@@ -5,7 +5,7 @@
 
 🔧 **Skills & Tools:** Linux, Ansible, Docker, Kubernetes, GitHub Actions, Terraform, AWS, Prometheus, Grafana, Python, Bash
 
-📍 **Location:** Erfurt, Germany  
+📍 **Location:** Stuttgart, Germany  
 📧 **Email:** [omar.hasni.ge@gmail.com](mailto:omar.hasni.ge@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/omarhasni](https://www.linkedin.com/in/omarhasni/)  
 
